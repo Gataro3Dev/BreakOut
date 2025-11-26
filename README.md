@@ -43,14 +43,15 @@ git lfs pull   # si usas Git LFS
 
 Descomprime y abre la carpeta en Unity.
 
-📂 Estructura del Proyecto
+📂 Estructura del Proyect
+
 📁 Assets/
- ├── 📁 Materials/
- ├── 📁 Prefabs/
- ├── 📁 Scenes/
- ├── 📁 Scripts/
- ├── 📁 Settings/
- └── 📁 InputSystem_Actions/
+├── 📁 Materials/
+├── 📁 Prefabs/
+├── 📁 Scenes/
+├── 📁 Scripts/
+├── 📁 Settings/
+└── 📁 InputSystem_Actions/
 
 README.md
 .gitignore
